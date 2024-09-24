@@ -6,12 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Map_1.unity
-    guid: 41bf872747d732245b768b4ef298b3f6
+    path: Assets/Assets_Oleg/Scenes/LvL_1.unity
+    guid: 51cdecae66ec86a4eb4352ac7d4c3486
   - enabled: 1
-    path: Assets/Scenes/Map_2.unity
-    guid: 59c1cb26b20bf19499558eaf23fb6069
-  - enabled: 1
-    path: Assets/Scenes/Map_3.unity
-    guid: 1134ae376fe33484f84c120c50be82e3
+    path: Assets/Assets_Oleg/Scenes/LvL_2.unity
+    guid: 8b3c83e4a8ca3d243ade8b10739a9d64
   m_configObjects: {}
